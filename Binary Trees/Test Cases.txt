@@ -1,0 +1,113 @@
+TEST CASE 1
+
+
+
+function takes a char array and an index name counter. It navigates to the indexed number in the array and moves the character after it, into it's spot and continues until there are no more characters to move. the loop invariant is that counter will never be greater than largest index in the char c.
+
+   1 a
+   1 after
+   1 an
+   3 and
+   1 are
+   2 array
+   1 be
+   1 c
+   2 char
+   1 character
+   1 characters
+   1 continues
+   2 counter
+   1 function
+   1 greater
+   2 in
+   2 index
+   1 indexed
+   1 into
+   1 invariant
+   1 is
+   2 it
+   1 it'
+   1 largest
+   1 loop
+   1 more
+   1 move
+   1 moves
+   1 name
+   1 navigates
+   1 never
+   1 no
+   1 number
+   1 spot
+   1 takes
+   1 than
+   1 that
+   5 the
+   1 there
+   2 to
+   1 until
+   1 will
+
+
+
+
+
+TEST CASE 2 
+
+The world is very different now. For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life. And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe the belief that the rights of man come not from the generosity of the state but from the hand of God.
+
+   1 abolish
+   2 all
+   2 and
+   1 are
+   1 around
+   1 at
+   1 belief
+   1 beliefs
+   1 but
+   1 come
+   1 different
+   2 for
+   1 forebears
+   2 forms
+   1 fought
+   2 from
+   1 generosity
+   1 globe
+   1 god
+   1 hand
+   1 hands
+   1 his
+   1 holds
+   2 human
+   1 in
+   1 is
+   1 issue
+   1 life
+   2 man
+   1 mortal
+   1 not
+   1 now
+   5 of
+   1 our
+   1 poverty
+   1 power
+   1 revolutionary
+   1 rights
+   1 same
+   1 state
+   1 still
+   1 that
+   9 the
+   1 to
+   1 very
+   1 which
+   1 world
+   1 yet
+
+
+
+
+
+
+
+

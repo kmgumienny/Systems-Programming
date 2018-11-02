@@ -1,0 +1,1074 @@
+TEST CASE 1
+
+xxoxx
+xoxox
+ooxoo
+xoxox
+xxoxx
+
+./life 10 10 50 input.txt y y
+          
+          
+          
+   xx xx  
+   x x x  
+     x    
+   x x x  
+   xx xx  
+          
+          
+
+          
+          
+          
+   xx xx  
+   x x x  
+     x    
+   x x x  
+   xx xx  
+          
+          
+The 0 generation board
+
+          
+          
+          
+   xxxxx  
+   x x x  
+     x    
+   x x x  
+   xxxxx  
+          
+          
+
+The previous generations board
+
+          
+          
+          
+   xxxxx  
+   x x x  
+     x    
+   x x x  
+   xxxxx  
+          
+          
+The 1 generation board
+
+          
+          
+    xxx   
+   x x x  
+   x   x  
+     x    
+   x   x  
+   x x x  
+    xxx   
+          
+
+The previous generations board
+
+          
+          
+    xxx   
+   x x x  
+   x   x  
+     x    
+   x   x  
+   x x x  
+    xxx   
+          
+The 2 generation board
+
+          
+     x    
+    xxx   
+   x x x  
+          
+    x x   
+          
+   x x x  
+    xxx   
+     x    
+
+The previous generations board
+
+          
+     x    
+    xxx   
+   x x x  
+          
+    x x   
+          
+   x x x  
+    xxx   
+     x    
+The 3 generation board
+
+          
+    xxx   
+          
+     x    
+    xxx   
+          
+    xxx   
+     x    
+          
+    xxx   
+
+The previous generations board
+
+          
+    xxx   
+          
+     x    
+    xxx   
+          
+    xxx   
+     x    
+          
+    xxx   
+The 4 generation board
+
+     x    
+     x    
+    x x   
+    xxx   
+    xxx   
+          
+    xxx   
+    xxx   
+    x x   
+     x    
+
+The previous generations board
+
+     x    
+     x    
+    x x   
+    xxx   
+    xxx   
+          
+    xxx   
+    xxx   
+    x x   
+     x    
+The 5 generation board
+
+          
+    xxx   
+    x x   
+   x   x  
+    x x   
+          
+    x x   
+   x   x  
+    x x   
+     x    
+
+The previous generations board
+
+          
+    xxx   
+    x x   
+   x   x  
+    x x   
+          
+    x x   
+   x   x  
+    x x   
+     x    
+The 6 generation board
+
+     x    
+    x x   
+   xx xx  
+   xx xx  
+          
+          
+          
+   xx xx  
+    xxx   
+     x    
+
+The previous generations board
+
+     x    
+    x x   
+   xx xx  
+   xx xx  
+          
+          
+          
+   xx xx  
+    xxx   
+     x    
+The 7 generation board
+
+     x    
+   xx xx  
+          
+   xx xx  
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The previous generations board
+
+     x    
+   xx xx  
+          
+   xx xx  
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+The 8 generation board
+
+    xxx   
+    xxx   
+          
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The previous generations board
+
+    xxx   
+    xxx   
+          
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+The 9 generation board
+
+    x x   
+    x x   
+     x    
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The previous generations board
+
+    x x   
+    x x   
+     x    
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+The 10 generation board
+
+          
+    x x   
+     x    
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The previous generations board
+
+          
+    x x   
+     x    
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+The 11 generation board
+
+          
+     x    
+     x    
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The previous generations board
+
+          
+     x    
+     x    
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+The 12 generation board
+
+          
+          
+          
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The previous generations board
+
+          
+          
+          
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+The 13 generation board
+
+          
+          
+          
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The previous generations board
+
+          
+          
+          
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+The 14 generation board
+
+          
+          
+          
+          
+          
+          
+          
+   xx xx  
+   x   x  
+    xxx   
+
+The game is in a loop. It is generation 15. Exiting
+
+
+
+
+TEST CASE 2
+
+xxxx
+xoox
+oooo
+xoox
+xxxx
+
+./life 10 10 50 input.txt y y
+
+
+   xxxx   
+   x  x   
+          
+   x  x   
+   xxxx   
+          
+          
+
+          
+          
+          
+   xxxx   
+   x  x   
+          
+   x  x   
+   xxxx   
+          
+          
+The 0 generation board
+
+          
+          
+    xx    
+   xxxx   
+   x  x   
+          
+   x  x   
+   xxxx   
+    xx    
+          
+
+The previous generations board
+
+          
+          
+    xx    
+   xxxx   
+   x  x   
+          
+   x  x   
+   xxxx   
+    xx    
+          
+The 1 generation board
+
+          
+          
+   x  x   
+   x  x   
+   x  x   
+          
+   x  x   
+   x  x   
+   x  x   
+          
+
+The previous generations board
+
+          
+          
+   x  x   
+   x  x   
+   x  x   
+          
+   x  x   
+   x  x   
+   x  x   
+          
+The 2 generation board
+
+          
+          
+          
+  xxxxxx  
+          
+          
+          
+  xxxxxx  
+          
+          
+
+The previous generations board
+
+          
+          
+          
+  xxxxxx  
+          
+          
+          
+  xxxxxx  
+          
+          
+The 3 generation board
+
+          
+          
+   xxxx   
+   xxxx   
+   xxxx   
+          
+   xxxx   
+   xxxx   
+   xxxx   
+          
+
+The previous generations board
+
+          
+          
+   xxxx   
+   xxxx   
+   xxxx   
+          
+   xxxx   
+   xxxx   
+   xxxx   
+          
+The 4 generation board
+
+          
+    xx    
+   x  x   
+  x    x  
+   x  x   
+          
+   x  x   
+  x    x  
+   x  x   
+    xx    
+
+The previous generations board
+
+          
+    xx    
+   x  x   
+  x    x  
+   x  x   
+          
+   x  x   
+  x    x  
+   x  x   
+    xx    
+The 5 generation board
+
+          
+    xx    
+   xxxx   
+  xx  xx  
+          
+          
+          
+  xx  xx  
+   xxxx   
+    xx    
+
+The previous generations board
+
+          
+    xx    
+   xxxx   
+  xx  xx  
+          
+          
+          
+  xx  xx  
+   xxxx   
+    xx    
+The 6 generation board
+
+          
+   x  x   
+  x    x  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  x    x  
+   x  x   
+
+The previous generations board
+
+          
+   x  x   
+  x    x  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  x    x  
+   x  x   
+The 7 generation board
+
+          
+          
+  x    x  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  x    x  
+          
+
+The previous generations board
+
+          
+          
+  x    x  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  x    x  
+          
+The 8 generation board
+
+          
+          
+  xx  xx  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  xx  xx  
+          
+
+The previous generations board
+
+          
+          
+  xx  xx  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  xx  xx  
+          
+The 9 generation board
+
+          
+          
+  xx  xx  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  xx  xx  
+          
+
+The previous generations board
+
+          
+          
+  xx  xx  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  xx  xx  
+          
+The 10 generation board
+
+          
+          
+  xx  xx  
+  xx  xx  
+          
+          
+          
+  xx  xx  
+  xx  xx  
+          
+
+The game is in a loop. It is generation 11. Exiting
+
+
+
+TEST CASE 3
+
+xooxox
+ooxxxxoox
+oxooxx
+
+./life 10 10 50 input.txt y y
+
+ x  x x  
+ xxx  x x 
+  xx
+          
+          
+          
+The 0 generation board
+
+          
+          
+          
+          
+ x x x   
+ x  xx x  
+ x x      
+          
+          
+          
+
+The previous generations board
+
+          
+          
+          
+          
+ x x x x  
+ x  xx x  
+ x x      
+          
+          
+          
+The 1 generation board
+
+          
+          
+          
+          
+  x  x    
+xx x x    
+  x x     
+          
+          
+          
+
+The previous generations board
+
+          
+          
+          
+          
+  x  x    
+xx x x    
+  x x     
+          
+          
+          
+The 2 generation board
+
+          
+          
+          
+          
+ xx x     
+ x x x    
+ xxxx     
+          
+          
+          
+
+The previous generations board
+
+          
+          
+          
+          
+ xx x     
+ x x x    
+ xxxx     
+          
+          
+          
+The 3 generation board
+
+          
+          
+          
+          
+ xxxx     
+x    x    
+ x xx     
+  xx      
+          
+          
+
+The previous generations board
+
+          
+          
+          
+          
+ xxxx     
+x    x    
+ x xx     
+  xx      
+          
+          
+The 4 generation board
+
+          
+          
+          
+  xx      
+ xxxx     
+x    x    
+ x xx     
+  xxx     
+          
+          
+
+The previous generations board
+
+          
+          
+          
+  xx      
+ xxxx     
+x    x    
+ x xx     
+  xxx     
+          
+          
+The 5 generation board
+
+          
+          
+          
+ x  x     
+ x  x     
+x    x    
+ x   x    
+  x x     
+   x      
+          
+
+The previous generations board
+
+          
+          
+          
+ x  x     
+ x  x     
+x    x    
+ x   x    
+  x x     
+   x      
+          
+The 6 generation board
+
+          
+          
+          
+          
+xx  xx    
+xx  xx    
+ x  xx    
+  xxx     
+   x      
+          
+
+The previous generations board
+
+          
+          
+          
+          
+xx  xx    
+xx  xx    
+ x  xx    
+  xxx     
+   x      
+          
+The 7 generation board
+
+          
+          
+          
+          
+xx  xx    
+  xx  x   
+xx        
+  x  x    
+  xxx     
+          
+
+The previous generations board
+
+          
+          
+          
+          
+xx  xx    
+  xx  x   
+xx        
+  x  x    
+  xxx     
+          
+The 8 generation board
+
+          
+          
+          
+          
+ xxxxx    
+  xxxx    
+ x x      
+  x x     
+  xxx     
+   x      
+
+The previous generations board
+
+          
+          
+          
+          
+ xxxxx    
+  xxxx    
+ x x      
+  x x     
+  xxx     
+   x      
+The 9 generation board
+
+          
+          
+          
+  xxx     
+ x   x    
+     x    
+ x   x    
+ x  x     
+  x x     
+  xxx     
+
+The previous generations board
+
+          
+          
+          
+  xxx     
+ x   x    
+     x    
+ x   x    
+ x  x     
+  x x     
+  xxx     
+The 10 generation board
+
+          
+          
+   x      
+  xxx     
+  xx x    
+    xxx   
+    xx    
+ xxxxx    
+ xx xx    
+  x x     
+
+The previous generations board
+
+          
+          
+   x      
+  xxx     
+  xx x    
+    xxx   
+    xx    
+ xxxxx    
+ xx xx    
+  x x     
+The 11 generation board
+
+          
+          
+  xxx     
+          
+  x   x   
+      x   
+  x       
+ x    x   
+          
+ xx xx    
+
+The previous generations board
+
+          
+          
+  xxx     
+          
+  x   x   
+      x   
+  x       
+ x    x   
+          
+ xx xx    
+The 12 generation board
+
+          
+   x      
+   x      
+  x       
+          
+          
+          
+          
+ xx  x    
+          
+
+The previous generations board
+
+          
+   x      
+   x      
+  x       
+          
+          
+          
+          
+ xx  x    
+          
+The 13 generation board
+
+          
+          
+  xx      
+          
+          
+          
+          
+          
+          
+          
+
+The previous generations board
+
+          
+          
+  xx      
+          
+          
+          
+          
+          
+          
+          
+The 14 generation board
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+The game has ended. It is generation 15. Exiting
+
+
